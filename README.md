@@ -39,7 +39,7 @@ Metrics:
 
 ### Conclusion
 
-This project demonstrates that ESG total scores are highly predictable from their underlying components, making ML overkill if a simple formula exists. However, the analysis provides valuable insights into ESG scoring dynamics, highlighting the dominance of environmental factors in overall ratings.
+This project demonstrates that ESG total scores are highly predictable from their underlying components. The analysis provides valuable insights into ESG scoring dynamics, highlighting the dominance of environmental factors in overall ratings.
 
 #### Future work could focus on:
 - Interpretability: Explaining scoring weightings to stakeholders.
